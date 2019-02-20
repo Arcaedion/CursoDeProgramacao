@@ -1,7 +1,5 @@
 # Aulas
 
-## Modo de uso desse repositório
-
 As pastas estão divididas em Aulas. É recomendado seguir as aulas em ordem.
 
 ## Sumário
