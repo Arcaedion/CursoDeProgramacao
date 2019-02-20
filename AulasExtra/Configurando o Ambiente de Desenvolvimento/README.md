@@ -14,6 +14,7 @@ Para ambos os casos, temos um video pronto!
 [![BaixandoUnity_VisualStudio](https://img.youtube.com/vi/-LXioG33sN0/0.jpg)](https://www.youtube.com/watch?v=-LXioG33sN0 "Como BAIXAR E INSTALAR o Unity")
 
 Entre em https://visualstudio.microsoft.com e, onde está IDE do Visual Studio, clique "Baixar para Windows" e escolha **Community 2017**. 
+
 ![VisualStudio](passo1.PNG)
 
 A versão atual é 2017, mas se for uma versão mais recente, não tem problema, o código do curso deve funcionar normalmente.
@@ -38,4 +39,5 @@ Ao fim da instalação, o Visual Studio Installer deve abrir automáticamente. S
 Quando abrir, escolha a opção **.NET Desktop Development** e depois em *install* para poder seguir o resto do tutorial de programação.
 
 Se quiser traduzir seu Visual Studio, você pode instalar o pack de linguas em Português através da aba "Language packs":
+
 ![LanguagePacks](language_packs.PNG)
