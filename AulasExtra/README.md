@@ -7,5 +7,5 @@ Cada pasta te leva a um tutorial escrito de cada uma das aulas extras. Há tamb�
 ## Sumário
 
 * [Configurando o Ambiente de Desenvolvimento](Configurando%20o%20Ambiente%20de%20Desenvolvimento)
-* [Tipos Primitivos](Tipos%20Primitivos)
+* [Tipos Primitivos](Tipos%20Primitivos%20e%20Convers%C3%A3o)
 
