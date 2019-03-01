@@ -182,7 +182,7 @@ C) mensagem: Transferência feita com sucesso!; variável saldo: 100.0\
 D) mensagem: Transferência falhou.; variável saldo: 100.0\
 E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0\
 
-1. Sem executar o código, leia o código e diga, respectivamente, qual é a mensagem no console e o valor da variável saldo?
+2. Sem executar o código, leia o código e diga, respectivamente, qual é a mensagem no console e o valor da variável saldo?
 
 ```cs
 double saldo = 5.0; 
@@ -204,7 +204,7 @@ C) mensagem: Transferência feita com sucesso!; variável saldo: 5.0\
 D) mensagem: Transferência falhou.; variável saldo: 5.0\
 E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0\
 
-1. O *if-else* não resulta tem apenas duas possibilidades. É possível fazer varias comparações nesta estrutura de controle, por exemplo:
+3. O *if-else* não resulta tem apenas duas possibilidades. É possível fazer varias comparações nesta estrutura de controle, por exemplo:
 
 ```cs
 double saldo = 500.0; 
@@ -228,10 +228,10 @@ A) Saldo negativo\
 B) Saldo gordinho!\
 C) WOW, um milionário!\
 
-1. No Brasil, apenas pessoas maiores de 18 anos e com carteira de motorista podem dirigir.
+4. No Brasil, apenas pessoas maiores de 18 anos e com carteira de motorista podem dirigir.
 Faça um programa com duas variáveis *idade* e *possuiCarteira* . Esse programa deverá validar a idade da pessoa e exibir a mensagem "Apto para conduzir" caso ela esteja dentro dos requisitos descritos. Exibir a mensagem "Proíbido dirigir" se a pessoa for inapta.
 
-1. (Para pesquisar) É possível resumir o *if* em apenas uma linha usando o **operador ternário "?"**, usando a seguinte sintaxe:
+5. (Para pesquisar) É possível resumir o *if* em apenas uma linha usando o **operador ternário "?"**, usando a seguinte sintaxe:
 
 ```cs
 var resultado = condicaoBooleana ? resultado1 : resultado2;
