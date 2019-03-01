@@ -77,7 +77,7 @@ Mas repara que agora estamos *identando* ifs dentro de ifs... E ter mais condiç
 ```cs
 double saldo = 500.0;
 double transferencia = 1000.0;
-if ( (saldo >= transferencia) && (transferencia > 0) )
+if ( (saldo >= transferencia) && (transferencia > 0) );
 {
     saldo -= transferencia;
 }
