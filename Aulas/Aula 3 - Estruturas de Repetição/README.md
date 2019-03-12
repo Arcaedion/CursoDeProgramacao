@@ -36,7 +36,7 @@ Facinho! Só porque são 3 vezes. E se precisássemos repetir isso 1000 vezes? O
 
 Estruturas de repetição nos permite repetir um certo bloco de código quantas vezes forem necessárias.
 
-De volta ao exemplo da última aula anterior... Suponha agora que o cliente do banco queira saber quanto ele ganhará, ao final de 1 ano, caso ele invista um valor. O investimento paga 1% do valor investido ao mês.
+De volta ao exemplo da última aula... Suponha agora que o cliente do banco queira saber quanto ele ganhará, ao final de 1 ano, caso ele invista um valor. O investimento paga 1% do valor investido ao mês.
 
 Por exemplo, se o cliente investir R$ 1000,00, ao final de 12 meses, terá por volta de R$ 1126,82. Em outras palavras, 
 
