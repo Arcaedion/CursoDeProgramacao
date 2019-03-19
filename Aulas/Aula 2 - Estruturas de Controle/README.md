@@ -249,5 +249,5 @@ else
 {
     mensagem = "Idade MENOR que 18"; 
 }
-Console.Out.WriteLine("Idade MENOR que 18"); 
+Console.Out.WriteLine(mensagem); 
 ```
