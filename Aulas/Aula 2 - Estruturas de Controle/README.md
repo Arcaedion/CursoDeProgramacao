@@ -176,11 +176,11 @@ else
     Console.Out.WriteLine("Transferência falhou."); 
 } 
 ```
-A) mensagem: Transferência feita com sucesso!; variável saldo: 90.0
-B) mensagem: Transferência falhou.; variável saldo: 90.0
-C) mensagem: Transferência feita com sucesso!; variável saldo: 100.0
-D) mensagem: Transferência falhou.; variável saldo: 100.0
-E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0
+* A) mensagem: Transferência feita com sucesso!; variável saldo: 90.0
+* B) mensagem: Transferência falhou.; variável saldo: 90.0
+* C) mensagem: Transferência feita com sucesso!; variável saldo: 100.0
+* D) mensagem: Transferência falhou.; variável saldo: 100.0
+* E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0
 
 2. Sem executar o código, leia o código e diga, respectivamente, qual é a mensagem no console e o valor da variável saldo?
 
@@ -197,11 +197,11 @@ else
     Console.Out.WriteLine("Transferência falhou."); 
 } 
 ```
-A) mensagem: Transferência feita com sucesso!; variável saldo: -5.0
-B) mensagem: Transferência falhou.; variável saldo: -5.0
-C) mensagem: Transferência feita com sucesso!; variável saldo: 5.0
-D) mensagem: Transferência falhou.; variável saldo: 5.0
-E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0
+* A) mensagem: Transferência feita com sucesso!; variável saldo: -5.0
+* B) mensagem: Transferência falhou.; variável saldo: -5.0
+* C) mensagem: Transferência feita com sucesso!; variável saldo: 5.0
+* D) mensagem: Transferência falhou.; variável saldo: 5.0
+* E) mensagem: Transferência feita com sucesso!; variável saldo: 10.0
 
 3. O *if-else* não resulta tem apenas duas possibilidades. É possível fazer varias comparações nesta estrutura de controle, por exemplo:
 
@@ -223,9 +223,9 @@ else
 
 Tente ler o código e chegar a uma conclusão de qual mensagem será exibida para o usuário:
 
-A) Saldo negativo
-B) Saldo gordinho!
-C) WOW, um milionário!
+* A) Saldo negativo
+* B) Saldo gordinho!
+* C) WOW, um milionário!
 
 4. No Brasil, apenas pessoas maiores de 18 anos e com carteira de motorista podem dirigir.
 Faça um programa com duas variáveis *idade* e *possuiCarteira* . Esse programa deverá validar a idade da pessoa e exibir a mensagem "Apto para conduzir" caso ela esteja dentro dos requisitos descritos. Exibir a mensagem "Proíbido dirigir" se a pessoa for inapta.
@@ -249,5 +249,5 @@ else
 {
     mensagem = "Idade MENOR que 18"; 
 }
-Console.Out.WriteLine("Idade MENOR que 18"); 
+Console.Out.WriteLine(mensagem); 
 ```
