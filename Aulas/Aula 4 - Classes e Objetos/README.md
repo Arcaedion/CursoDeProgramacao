@@ -27,13 +27,14 @@ E aqui é a nossa deixa para falarmos do primeiro e mais importante conceito do 
 
 O que exatamente é um **objeto** na vida real? É qualquer coisa. Por exemplo, um carro. Carros possuem características que o tornam um carro: motor, rodas, volante etc. Ou seja, tem um conjunto de, bem... Outras coisas! Em programação é bem similar... Pense numa caixa, vamos chamar essa caixa de **Pessoa**. Uma pessoa tem algumas informações... Nome e idade por exemplo. Ambas são variáveis.
 
-![Pessoa](/CaixaObjetoPessoa.PNG)
+![Pessoa](CaixaObjetoPessoa.PNG)
+
 
 Podemos então dizer que o objeto é a caixa, e as variáveis é o conteúdo dela. Assim podemos referenciar a pessoa apontando para a caixa, e ela vai conter as informações que precisamos.
 
 Voltando ao nosso exemplo, toda Conta Bancária tem um número, nome de titular e saldo. Mais ou mesmo a mesma coisa, né?
 
-![ContaBancaria](/CaixaObjetoConta.PNG)
+![ContaBancaria](CaixaObjetoConta.PNG)
 
 Falta só representarmos essa caixa em programação. Aqui introduzimos o conceito de **classe**. A classe é o que usamos como base para criar um objeto, ou, na nomenclatura correta, **um objeto é uma instância de uma classe**. É como se a classe fosse a receita para um bolo, e o objeto fosse o bolo em si. Se ficou confuso, vai seguindo que vai ter mais exemplos pela frente.
 
@@ -116,7 +117,7 @@ Ok. **Mas então toda vez que a gente precisar fazer uma transferência vamos te
 
 Como dito antes, coisas tem informações, e algumas vezes também tem comportamentos. Voltando ao exemplo do Carro, ele tem volante, rodas, motor etc. Mas também podemos dizer que o carro anda, liga, desliga, entre outros. Como programação é um certo tipo de magia, podemos programar comportamentos!
 
-![Carro](/CaixaObjetoCarroComp.PNG)
+![Carro](CaixaObjetoCarroComp.PNG)
 No caso queremos fazer um comportamento para conta: *Saca*!
 
 Na verdade não é nada de mais, é só ter a sintaxe que já aprendemos com if/for em um bloco de código separado. Mas é mais legal apresentar assim!
