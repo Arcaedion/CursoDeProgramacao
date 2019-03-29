@@ -1,4 +1,5 @@
-# Aula 4 - Classes e Objetos
+# Aula 4 - Classes e Objetos ([Assista à aula!](https://www.youtube.com/watch?v=IIKQIxQNJ3s))
+
 
 ## Programação procedural e seus problemas
 
