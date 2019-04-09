@@ -12,9 +12,13 @@ Para criar uma cena, precisamos de um projeto de jogo.
 
 ## Criando um projeto
 
-Vamos abrir o Unity Hub e criar um projeto. Se você não tiver o Unity instalado e quer saber como, faça uma pausa e dê uma olhada nesse video do canal. 
+Vamos abrir o Unity Hub e criar um projeto. Se você não tiver o Unity e quiser saber como instalar, faça uma pausa e dê uma olhada nesse video do canal. 
 
-LINK
+Clique aqui!
+[<img src="http://i3.ytimg.com/vi/-LXioG33sN0/maxresdefault.jpg">](https://youtu.be/-LXioG33sN0)
+
+
+
 
 ## Adicionando um objeto de jogo: cubo
 
@@ -25,7 +29,7 @@ Nessa cena vazia inicial, podemos adicionar objetos de jogo, por exemplo um cubo
 ## Componentes do objeto cubo
 
 Esse cubo já possui por padrão alguns outros componentes, como o **Mesh Filter** que **define uma geometria para o nosso objeto**, que no caso é um cubo,
-mas poderia ser um cilindro, uma esfera, ou até mesmo objetos mais complexos como um carro e uma casa. 
+mas poderia ser um cilindro, uma esfera, ou até mesmo objetos mais complexos, como um carro e uma casa. 
 
 Outro componente é o **Mesh Renderer**, que **renderiza o objeto geométrico do Mesh Filter** na cena. Nele também definimos um tipo de material para nosso objeto. Poderia ser um metal, madeira, pedra, terra, etc... No caso, está definido o material padrão do Unity: Default-Material
 
@@ -38,12 +42,12 @@ Por último, temos o Box Collider, que define os limites do corpo do cubo para d
 
 ## Scripts customizados
 
-Mas estamos aqui para falar de scripts! Podemos adicionar um script a esse cubo para definir um comportamento customizado a ele. Para adicionar um script, pode criá-lo no seu projeto apertando o **Botão direito > Create > C# Script**, vou chamar de ComportamentoExemplo, e depois arrastando-o para dentro do Cubo.
+Mas estamos aqui para falar de scripts! Podemos adicionar um script a esse cubo para definir um comportamento customizado. Para adicionar um script, pode criá-lo no seu projeto apertando o **Botão direito > Create > C# Script**, vou chamar de ComportamentoExemplo, e depois arrastando-o para dentro do Cubo.
 
 ![CriarScript](criar_script.png)
 
 
-Se você dar duplo-clique no script ele vai abrir no seu editor de código C#, no meu caso é o Visual Studio. Imediatamente vemos dois métodos já feitos: Start() e Update().
+Se você der duplo-clique no script ele vai abrir no seu editor de código C#, no meu caso é o Visual Studio. Imediatamente vemos dois métodos já feitos: Start() e Update().
 
 ![StartUpdate](start_update.png)
 
