@@ -40,12 +40,12 @@ Por último, temos o Box Collider, que define os limites do corpo do cubo para d
 
 Mas estamos aqui para falar de scripts! Podemos adicionar um script a esse cubo para definir um comportamento customizado a ele. Para adicionar um script, pode criá-lo no seu projeto apertando o **Botão direito > Create > C# Script**, vou chamar de ComportamentoExemplo, e depois arrastando-o para dentro do Cubo.
 
-![CriarScript](criar_script.PNG)
+![CriarScript](criar_script.png)
 
 
 Se você dar duplo-clique no script ele vai abrir no seu editor de código C#, no meu caso é o Visual Studio. Imediatamente vemos dois métodos já feitos: Start() e Update().
 
-![StartUpdate](start_update.PNG)
+![StartUpdate](start_update.png)
 
 
 O Start() é um método que é executado apenas no primeiro frame em que aquele objeto é ativado. Ele é bom para definirmos variáveis que vamos utilizar no resto do Script. Por exemplo, vamos guardar o nosso MeshRenderer dentro de uma variável usando o método GetComponent<>:
