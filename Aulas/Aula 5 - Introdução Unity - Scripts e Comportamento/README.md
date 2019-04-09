@@ -63,18 +63,18 @@ O Update() é um método que ocorre a cada frame de execução do jogo. Lembra d
 Aproveitando, vamos fazer algumas coisas nesse update. Primeiro, vamos detectar que o jogador apertou um botão, no caso, o botão R:
 
 ```cs
-    if (Input.GetKeyDown(KeyCode.R))
-    {
-    }
+if (Input.GetKeyDown(KeyCode.R))
+{
+}
 ```
 
 O código irá entrar nesse *if* caso o jogador aperte a letra R. Vamos fazer o cubo mudar de cor:
 
 ```cs
-    if (Input.GetKeyDown(KeyCode.R))
-    {
-        _renderer.material.color = Color.red;
-    }
+if (Input.GetKeyDown(KeyCode.R))
+{
+    _renderer.material.color = Color.red;
+}
 ```
 
 Explicando esse código... Lembra que o GetComponent obteve o nosso Mesh Renderer? E que o Mesh Renderer tem um material acoplado a ele, no caso, o "Default-Material":
