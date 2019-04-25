@@ -10,7 +10,7 @@ Vetores são usados para definir direções, velocidades e posições.
 Em um espaço tridimensional, temos a noção de largura(x), altura(y) e profundidade(z) e, para definir um ponto específico no plano, precisamos de três valores para representar cada um desses conceitos. 
 
 
-[Vector3](plano3d.png)
+![Vector3](plano3d.png)
 
 Em Unity, temos um objeto que representa esse ponto e contém todas essas informações. Esse objeto é um **Vector3**.
 
@@ -20,7 +20,7 @@ Um ponto num plano bidimensional pode ser definido com um **Vector2**.
 
 Vamos dizer um ponto com os valores de x=4 e y=3:
 
-[Vector2_4_3](vector2.PNG)
+![Vector2_4_3](vector2.PNG)
 
 Agora vamos treinar um pouquinho a matemática, mas é bem fácil. Um Vetor possui Direção, que aponta para o ponto no plano 2D, e uma *magnitude*, que nada mais é que o comprimento do ponto [0,0] até o ponto [4,3].
 
@@ -40,7 +40,7 @@ Vamos então fazer um objeto andar num plano 3D!
 
 Todo objeto de jogo em Unity tem um componente Transform, que podemos usar para alterar a posição, rotação e escala do objeto. 
 
-[Transform](Transform.png)
+![Transform](transform.png)
 
 
 
@@ -55,7 +55,7 @@ transform.position = new Vector3(0,10,0);
 
 Quando dermos play vamos ver que a posição do cubo mudou imediatamente. É assim que mudamos a posição usando scripts!
 
-[Play](playposicao.PNG)
+![Play](playposicao.PNG)
 
 Agora vamos remover o start e vamos nos concentrar nos método Update().
 
@@ -92,7 +92,7 @@ transform.Translate(qtdMovimento);
 
 Dando Play novamente, podemos controlar o cubo num plano tridimensional!
 
-[Fim](fim.gif)
+![Fim](fim.gif)
 
 Muito bem, ficamos por aqui pessoal. Espero que tenham gostado, like subscribe e nos vemos no próximo video!
 
