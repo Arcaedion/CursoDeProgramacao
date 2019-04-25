@@ -27,8 +27,11 @@ Agora vamos treinar um pouquinho a matemática, mas é bem fácil. Um Vetor poss
 Para calcular a magnitude podemos usar o teorema de Pitágoras:
 
 m = SQRT(4^2 + 3^2)
+
 m = SQRT(16 + 9)
+
 m = SQRT(25)
+
 m = 5
 
 
