@@ -1,5 +1,6 @@
 # Introdução Unity - Scripts e MonoBehavior
 
+**Video da aula: https://youtu.be/CRH92bcuyEA**
 
 ## Introdução
 
