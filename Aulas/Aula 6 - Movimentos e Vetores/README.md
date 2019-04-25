@@ -1,6 +1,8 @@
 
 ## Introdução
 
+**Vídeo da aula: https://youtu.be/K7Ne0wzyNbA**
+
 ## Vetores
 
 Vetores são usados para definir direções, velocidades e posições.
