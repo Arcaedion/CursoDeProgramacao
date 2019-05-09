@@ -1,5 +1,9 @@
 # Modificadores de acesso
 
+## Video-aula
+
+Vídeo da aula: 
+
 ## Boas práticas
 
 Na última aula definimos o movimento do jogador no nosso script **Jogador.cs**
