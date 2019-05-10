@@ -1,8 +1,8 @@
 # Modificadores de acesso
 
-## Video-aula
+## Aula
 
-Vídeo da aula: 
+Vídeo da aula: https://youtu.be/exlDxrBykMQ
 
 ## Boas práticas
 
