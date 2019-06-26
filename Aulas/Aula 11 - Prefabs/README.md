@@ -12,8 +12,6 @@ Antes dessa versão não existia _Prefab Mode_ e criar prefabs aninhados não er
 
 # Introdução
 
-~~Vamos falar de Prefabs.~~
-
 O sistema de prefabs do Unity nos permite configurar e guardar objetos de jogo com todos os seus componentes e partes internas. Portanto prefabs são como um _template_, um __modelo__, de onde você pode criar novas __instâncias de prefabs__ na cena. A palavra Prefab é uma versão curta de "Pré Fabricado".
 
 Basicamente, sempre que quisermos __*re*__*utilizar* um certo objeto, é ideal transformarmos ele num prefab.
