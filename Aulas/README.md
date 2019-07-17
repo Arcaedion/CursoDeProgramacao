@@ -17,6 +17,7 @@ As pastas estão divididas em Aulas. É recomendado seguir as aulas em ordem.
 7. [Aula 07: Modificadores de Acesso](Aula%207%20-%20Modificadores%20de%20Acesso)
 8. [Aula 08: Espaço Global e Local](Aula%208%20-%20Espa%C3%A7%o%20Global%20e%20Local)
 9. [Aula 09: Rotação de objetos](Aula%209%20-%20Rota%C3%A7%C3%A3o%20de%20objetos)
-9. [Aula 10: Colisão e Rigidbody](Aula%2010%20-%20Coli%C3%A3o)
-9. [Aula 11: Prefabs](Aula%2011%20-%20Prefabs)
+10. [Aula 10: Colisão e Rigidbody](Aula%2010%20-%20Coli%C3%A3o)
+11. [Aula 11: Prefabs](Aula%2011%20-%20Prefabs)
+12. [Aula 12: Arrays](Aula%2012%20-%20Arrays)
 
