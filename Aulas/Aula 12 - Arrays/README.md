@@ -1,9 +1,14 @@
+# Arrays
 
-# Aula 12 - Arrays
+## Aula
 
-Hoje vamos falar de arrays.
+Link para vídeo-aula: https://youtu.be/DahaScn49_o
+
+## Introdução
 
 Até agora só mencionamos tipos de dados simples e como utilizá-los, mas não falamos ainda em como relacionar eles dentro de um mesmo conjunto. 
+
+## Caso de uso: Material aleatório
 
 Por exemplo, eu fiz uma cena aqui com um cubo. E também criei três materiais para a gente pintar ele. Digamos que eu queira selecionar aleatóriamente um desses materiais quando eu apertar R.
 
@@ -27,6 +32,8 @@ void Update()
 }
 ```
 
+## Criando Arrays
+
 Para resolver esse problema podemos usar um array. Arrays funcionam como se fossem uma lista de alguma coisa. Podemos fazer arrays de _inteiros_, _strings_, _objetos_, etc.
 
 A sintaxe para inicializar um array no código fica assim:
@@ -44,6 +51,8 @@ numeros[2] = 165;
 ```
 
 A primeira _'vaga'_ do array começa em 0, sendo assim, 0 é a primeira posição, 1 é a segunda, e 2 é a terceira. Um array pode ser qualquer coisa, imagina por exemplo que vc tem uma mochila que pode guardar 5 items, você poderia guardar os items num array e quando estivesse todos preenchidos você poderia enviar uma mensagem dizendo que a mochila está cheia.
+
+## Aplicando arrays com Unity
 
 Então, voltando para o nosso exemplo do cubo, no Unity, podemos também usar arrays no editor. Para então resolver nosso problema vamos fazer assim:
 
