@@ -75,8 +75,6 @@ Agora se a gente voltar ao Unity e testar nossa aplicação, apertar S muda os m
 * C) int[] numeros = new int["dez"];
 * D) int[10] numeros = new int[10];
 
-**R:** Letra B. Na inicialização dizemos o tamanho total do array, apenas ao apontar posições que contamos a partir de 0.
-
 2. Dado este array:
 
 ```cs
@@ -90,8 +88,6 @@ Como acessar o quinto elemento nessa lista?
 * C) numeros["quinto"]
 * D) numeros[5]
 
-**R:** Letra B pois as posições começam em 0.
-
 3. (Para pesquisar) Dado um array chamado _'numero'_, como descobrir seu tamanho?
 
 * A) numero.Length
@@ -99,8 +95,6 @@ Como acessar o quinto elemento nessa lista?
 * C) numero.Size()
 * D) numero.Length()
 * E) numero.Capacity()
-
-**R:** Letra A
 
 4. (Para pesquisar) Quando vamos instanciar e inicializar um array, fazemos assim.
 
@@ -112,11 +106,3 @@ numeros[2] = 563;
 ```
 
 Existe uma forma mais simples de inicializar arrays em C# usando apenas uma linha de código. Qual é?
-
-**R:**
-
-```cs
-int[] numeros = new int[] { 43, 886, 563 };
-```
-
-Repare que desta forma você não precisa indicar o tamanho do array.
