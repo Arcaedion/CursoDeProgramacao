@@ -1,8 +1,8 @@
 # Jogo 1: Formas de Colorir
 
-E aí, beleza? Hoje vamos __completar um jogo__! O objetivo aqui é treinar um pouco mais a programação com pequenos joguinhos.
+Hoje vamos __completar um jogo__! O objetivo aqui é treinar um pouco mais a programação com pequenos joguinhos.
 
-Mas antes de mais nada, para seguir essa aula, vc precisa baixar o projeto da aula. O Link ta na descrição. Você só precisa fazer __UNZIP__ e colocar o conteúdo dentro da sua pasta assets do Unity.
+Mas antes de mais nada, para seguir essa aula, você precisa baixar o projeto da aula. Você pode encontrar ele [Aqui](Jogo1.zip) para baixar. Coloque o conteúdo do zip dentro de alguma pasta no seu projeto Unity e pronto!
 
 Vamos abrir a cena Jogo1_vazio
 
