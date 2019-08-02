@@ -8,4 +8,4 @@ Os jogos feitos nas aulas estão divididos em pastas. Clique em cada um para ver
 
 ## Sumário
 
-1. [#1: Formas de Colorir](1.%20Formas%20de%20Colorir)
+1. [Formas de Colorir](1.%20Formas%20de%20Colorir)

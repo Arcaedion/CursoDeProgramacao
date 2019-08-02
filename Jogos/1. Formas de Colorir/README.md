@@ -6,7 +6,7 @@ Mas antes de mais nada, para seguir essa aula, vc precisa baixar o projeto da au
 
 Vamos abrir a cena Jogo1_vazio
 
-[FormasDeColorir](colorir.png)
+![FormasDeColorir](colorir.png)
 
 Você tá vendo aqui na tela a base de um jogo. O jogo se chama __Formas de Colorir__, e o objetivo é selecionar a forma e a cor correta. Ao iniciar, uma forma e uma cor será sorteada. O jogador então tem que apertar as setas para o lado esquerdo ou direito para selecionar uma forma, e para cima e baixo para selecionar uma cor.
 
@@ -26,7 +26,7 @@ public void SorteiaNovoRound()
 
 Agora, aqui na cena, além da Forma, você tem um GerenciadorDeJogo com um script. Dentro desse script tem um método chamado SorteiaNovoRound(). Tente fazer um código em que você sorteia um novo round usando os arrays já definidos. 
 
-[ArraysEditor](ArraysEditor.png)
+![ArraysEditor](ArraysEditor.png)
 
 Esses arrays você pode ver aqui no editor. Com os nomes das formas e cores, e com os objetos relacionados. A gente poderia organizar isso melhor e colocar eles dentro de classes, mas vamos fazer isso em outro jogo para manter esse mais simples.
 
