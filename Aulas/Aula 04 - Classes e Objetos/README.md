@@ -1,4 +1,8 @@
-# Aula 4 - Classes e Objetos ([Assista à aula!](https://www.youtube.com/watch?v=IIKQIxQNJ3s))
+# Aula 4 - Classes e Objetos
+
+## Aula
+
+A Vídeo-aula relacionada pode ser contrada aqui: https://youtu.be/IIKQIxQNJ3s
 
 
 ## Programação procedural e seus problemas
@@ -255,4 +259,59 @@ Até lá, façam os exercícios e postem suas dúvidas. Até a próxima!
 
 ## Exercícios
 
+__Classe carro__
+A seguinte classe Carro será usada para os exercícios:
 
+```cs
+class Carro
+{
+    public int aceleracao;
+    public int numeroRodas; 
+
+    public void Acelera(int aceleracaoValor)
+    {
+        aceleracao += aceleracaoValor;
+    }
+}
+```
+
+1. Qual é a sintaxe correta para instanciar uma classe Carro?
+
+A.
+
+```cs
+Carro car = Carro.instance();
+```
+
+
+B.
+
+```cs
+Carro car = Carro();
+```
+
+
+C.
+
+```cs
+Carro car = new Carro();
+```
+
+D.
+
+```cs
+new Carro car = Carro();
+```
+
+2. Dada uma instância da classe Carro chamada `car`, em qual opção abaixo adicionamos __5__ à aceleração?
+
+A. `aceleracao += 5;`
+B. `car.Acelera(5);`
+C. `car.aceleracao = 5;`
+D. `car = aceleracao + 5;` 
+
+3. Crie um novo método __Desacelera__, que funciona de forma similar ao Acelera, mas para diminuir a aceleração. 
+
+4. O que acontece se o método __Desacelera__ que você criou receber um valor negativo como argumento?
+
+5. (Para pesquisar) Considerando a questão anterior, de que forma você pode resolver esse problema, tanto no método __Desacelera__ quanto no método __Acelera__ ?
