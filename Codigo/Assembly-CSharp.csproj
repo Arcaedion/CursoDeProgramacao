@@ -60,10 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ComportamentoExemplo.cs" />
-    <Compile Include="Assets\Scripts\Esfera.cs" />
-    <Compile Include="Assets\Scripts\Jogador.cs" />
-    <Compile Include="Assets\Scripts\RotacionaVela.cs" />
+    <Compile Include="Assets\Jogos\Jogo1\Scripts\GerenciadorDeJogoVazio.cs" />
+    <Compile Include="Assets\Scripts\Aula12\MudaCorAleatoria.cs" />
+    <Compile Include="Assets\Scripts\Aulas1-11\ComportamentoExemplo.cs" />
+    <Compile Include="Assets\Scripts\Aulas1-11\Esfera.cs" />
+    <Compile Include="Assets\Scripts\Aulas1-11\Jogador.cs" />
+    <Compile Include="Assets\Scripts\Aulas1-11\RotacionaVela.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Development/Tests/IntroducaoUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
