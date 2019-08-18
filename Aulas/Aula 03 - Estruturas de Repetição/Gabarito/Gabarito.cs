@@ -48,7 +48,7 @@ namespace EstruturasDeRepeticao
             int numero = 2;
             int potencia = 5;
             int resultadoPotencia = 1; ;
-            for(int b = 1; b <= 5; b++)
+            for(int b = 1; b <= potencia; b++)
             {
                 resultadoPotencia *= numero;
             }
