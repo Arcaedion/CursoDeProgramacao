@@ -94,7 +94,7 @@ Agora que temos uma instância de conta, podemos guardar valores nas suas variá
 
 ```cs
 Conta c = new Conta();
-c.numeroConta = 1
+c.numeroConta = 1;
 c.titularConta = "Gunner";
 c.saldoConta = 1000.0;
 ```
@@ -105,7 +105,7 @@ Lembra que uma conta tem saldo? Agora, vamos fazer um saque. Lembrando que o val
 
 ```cs
 Conta c = new Conta();
-c.numeroConta = 1
+c.numeroConta = 1;
 c.titularConta = "Gunner";
 c.saldoConta = 1000.0;
 
@@ -169,7 +169,7 @@ Pronto. Nossa classe está pronta para ter seu método Saca chamado! Vamos volta
 
 ```cs
 Conta c = new Conta();
-c.numeroConta = 1
+c.numeroConta = 1;
 c.titularConta = "Gunner";
 c.saldoConta = 1000.0;
 
@@ -237,7 +237,7 @@ Agora sim, **sem sublinhados vermelhos do inferno**, podemos voltar para o *Prog
 
 ```cs
 Conta c = new Conta();
-c.numeroConta = 1
+c.numeroConta = 1;
 c.titularConta = "Gunner";
 c.saldoConta = 1000.0;
 
