@@ -11,7 +11,7 @@ Para ambos os casos, temos um video pronto!
 
 ## Visual Studio pelo site da Microsoft
 
-[![BaixandoUnity_VisualStudio](https://img.youtube.com/vi/-LXioG33sN0/0.jpg)](https://www.youtube.com/watch?v=-LXioG33sN0 "Como BAIXAR E INSTALAR o Unity")
+Link para o video: https://youtu.be/qkJK8kMYq_8
 
 Entre em https://visualstudio.microsoft.com e, onde está IDE do Visual Studio, clique "Baixar para Windows" e escolha **Community 2017**. 
 
