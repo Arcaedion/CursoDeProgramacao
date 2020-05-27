@@ -30,13 +30,7 @@ Quando abrir, escolha a opção **.NET Desktop Development** e depois em *instal
 Se quiser traduzir seu Visual Studio, você pode instalar o pack de linguas em Português através da aba "Language packs":
 
 
-## Visual Studio pelo Unity Hub
-
-[![BaixandoUnity_VisualStudio](https://img.youtube.com/vi/-LXioG33sN0/0.jpg)](https://www.youtube.com/watch?v=-LXioG33sN0 "Como BAIXAR E INSTALAR o Unity")
-
-Ao fim da instalação, o Visual Studio Installer deve abrir automáticamente. Se não, abra o Iniciar e procure por Visual Studio Installer. 
-
-Quando abrir, escolha a opção **.NET Desktop Development** e depois em *install* para poder seguir o resto do tutorial de programação.
+## Tradução PT-BR
 
 Se quiser traduzir seu Visual Studio, você pode instalar o pack de linguas em Português através da aba "Language packs":
 
